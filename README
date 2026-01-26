@@ -1,1 +1,4 @@
-Prueba de README
+Para este projecto se utilizó MVC
+
+En la carpeta de "LittleCow" se encuentra el modelo de la aplicación haciendo uso de python
+En la carpeta "appflutter" se encuentra la vista, haciendo uso del lenguaje Dart
